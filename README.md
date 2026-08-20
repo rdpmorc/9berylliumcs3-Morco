@@ -8,8 +8,8 @@ README.MD
 https://docs.google.com/document/d/1giUzhhz68EjGPSNcCtQ6j0gaLV4eYYvFvOHqPM0Rrc0/edit?usp=sharing
 
 # Chinese Zodiac:
-https://github.com/rdpmorc/9berylliumcs3-Morco/blob/9bcfa9ca3621f027314fb073b959e3ce4e364fa6/zodiacBerylliumMorco.md
-https://github.com/rdpmorc/9berylliumcs3-Morco/blob/d3abd30f84bf2b724eab3d8d7f045fd2c1ffee97/zodiacBerylliumMorco.py
+https://github.com/rdpmorc/9berylliumcs3-Morco/blob/161b1eba9bf23598cd74b7d09fbfaa6d0d6f301f/quarter_one/zodiacBerylliumMorco.md
+https://github.com/rdpmorc/9berylliumcs3-Morco/blob/161b1eba9bf23598cd74b7d09fbfaa6d0d6f301f/quarter_one/zodiacBerylliumMorco.py
 
 # OOP Concept:
 https://github.com/rdpmorc/9berylliumcs3-Morco/blob/82905c8d586fb07ca932a4acb008718e175e8e53/quarter_one/ila_oop.md

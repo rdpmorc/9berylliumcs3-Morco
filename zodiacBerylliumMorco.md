@@ -36,3 +36,29 @@ Document this graded exercise in your Github portfolio and save it in zodiacSect
 Commit your changes in your github account and submit the live code link here and also your .git repository link.
 
 Refer to Annex D for Code Exercise Rubrics for Grading found in khub.
+
+<img width="736" height="542" alt="Screenshot 2026-08-21 001618" src="https://github.com/user-attachments/assets/19519854-79cd-49a8-88ce-44623dc254bb" />
+
+# CODE:
+# FUNCTIONS AND LISTS :
+signList = ['Rat (鼠 / Shǔ)','Ox (牛 / Niú)','Tiger (虎 / Hǔ)',
+           'Rabbit (兔 / Tù)','Dragon (龙 / Lóng)','Snake (蛇 / Shé)',
+            'Horse (马 / Mǎ)','Goat (羊 / Yáng)','Monkey (猴 / Hóu)',
+            'Rooster (鸡 / Jī)','Dog (狗 / Gǒu)','Pig (猪 / Zhū)']
+
+def getYear():
+    x = int(input("Enter your birth year: "))
+    return x
+
+def getZodiac(x, y):
+    year = (x - 1900) % 12
+    zodiac = y[year]
+    return zodiac
+
+# MAIN PROGRAM :
+x = getYear()
+if x >= 1900:
+    animal = getZodiac(x, signList)
+    print("Your Chinese Zodiac Sign is: " + animal)
+else:
+    print("Invalid Year, it should not be earlier than 1900.")

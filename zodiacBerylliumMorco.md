@@ -40,7 +40,8 @@ Refer to Annex D for Code Exercise Rubrics for Grading found in khub.
 <img width="736" height="542" alt="Screenshot 2026-08-21 001618" src="https://github.com/user-attachments/assets/19519854-79cd-49a8-88ce-44623dc254bb" />
 
 # CODE:
-# FUNCTIONS AND LISTS :
+(-- is used instead of # to signify a comment to prevent formatting issues)
+--FUNCTIONS AND LISTS :
 signList = ['Rat (鼠 / Shǔ)','Ox (牛 / Niú)','Tiger (虎 / Hǔ)',
            'Rabbit (兔 / Tù)','Dragon (龙 / Lóng)','Snake (蛇 / Shé)',
             'Horse (马 / Mǎ)','Goat (羊 / Yáng)','Monkey (猴 / Hóu)',
@@ -55,7 +56,7 @@ def getZodiac(x, y):
     zodiac = y[year]
     return zodiac
 
-# MAIN PROGRAM :
+--MAIN PROGRAM :
 x = getYear()
 if x >= 1900:
     animal = getZodiac(x, signList)

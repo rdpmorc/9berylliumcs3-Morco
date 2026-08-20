@@ -41,6 +41,7 @@ Refer to Annex D for Code Exercise Rubrics for Grading found in khub.
 
 # CODE:
 (-- is used instead of # to signify a comment to prevent formatting issues)
+
 --FUNCTIONS AND LISTS :
 signList = ['Rat (鼠 / Shǔ)','Ox (牛 / Niú)','Tiger (虎 / Hǔ)',
            'Rabbit (兔 / Tù)','Dragon (龙 / Lóng)','Snake (蛇 / Shé)',

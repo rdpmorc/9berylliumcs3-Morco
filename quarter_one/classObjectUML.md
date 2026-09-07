@@ -17,6 +17,7 @@
 |displayInfo()             |Displays the item's properties.      |
 ## Class Diagram
 <img width="1920" height="1080" alt="oopAct" src="https://github.com/user-attachments/assets/4a93622e-d3ed-40ad-967a-19424a42a647" />
+
 ## Design Explanation
 ### Why did you choose this class?
 ### - I chose the Lost Item class because students, like me, often lose their personal belongings at school. A simple system with this class could help schools with the management of lost items and make it easier to return them to their owners in an orderly manner.

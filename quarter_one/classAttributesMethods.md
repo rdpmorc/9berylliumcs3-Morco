@@ -1,7 +1,7 @@
 # Class Attributes and Methods
 ## Previous Design
 Link to my previous activity:
-https://github.com/rdpmorc/9berylliumcs3-Morco/blob/64835d368472480e9eda46a0e5111beb1cc8d124/quarter_one/classObjectUML.md
+[classObjectUML.md](https://github.com/rdpmorc/9berylliumcs3-Morco/blob/64835d368472480e9eda46a0e5111beb1cc8d124/quarter_one/classObjectUML.md)
 
 ## Design Revision
 Changes in my previous design:
@@ -22,3 +22,4 @@ Revised class object diagram.
 <img width="1920" height="1080" alt="Add a subheading (8)" src="https://github.com/user-attachments/assets/f9822bc5-5837-4d1a-9608-cd4f730a9950" />
 
 ## Python Implementation
+[View Python Source](https://github.com/rdpmorc/9berylliumcs3-Morco/blob/9bdf6d3b7029b81c29bc7a4cb43ec9ebec175aa1/quarter_one/classImplementation.py)

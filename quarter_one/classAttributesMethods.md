@@ -7,9 +7,11 @@ https://github.com/rdpmorc/9berylliumcs3-Morco/blob/64835d368472480e9eda46a0e511
 No major changes were needed from my original design.
 
 ## Visibility Decisions
-| Attribute | Data Type | Visibility | Reason |
-|-----------|-----------|------------|--------|
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+| Attribute | Data Type | Visibility |           Reason           |
+|-----------|-----------|------------|----------------------------|
+|itemName   |string     |Public      | |
+|placeFound |string     |Public      | |
+|ownerName  |string     |Private     | |
+|dateFound  |int        |Public      | |
+|claimed    |boolean    |Public      | |
+|dateClaimed|int        |Private     | |

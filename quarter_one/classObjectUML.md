@@ -19,7 +19,7 @@
 |markAsClaimed()           |Changes the item status to claimed. Automatically updates dateClaimed property. |
 |displayInfo()             |Displays the item's properties.      |
 ## Class Diagram
-<img width="1920" height="1080" alt="oopAct" src="https://github.com/user-attachments/assets/4a93622e-d3ed-40ad-967a-19424a42a647" />
+<img width="1920" height="1080" alt="Add a subheading (7)" src="https://github.com/user-attachments/assets/efaee491-3466-4afb-bb20-020a625cf39c" />
 
 ## Design Explanation
 ### Why did you choose this class?

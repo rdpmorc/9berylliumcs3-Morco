@@ -19,3 +19,7 @@ Explanation: A Student can be associated with lost items that they have claimed.
 ## Multiplicity
 Multiplicity: Student 1 ───────── 0..* lostItem
 Explanation: One student can claim zero or more lost items.
+
+## UML Class Relationship Diagram
+![Class Relationship Diagram](images/classRelationshipDiagram.png)
+

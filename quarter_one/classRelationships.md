@@ -16,5 +16,5 @@ Relationship: Student HAS-A / claims Lost Item.
 Explanation: A Student can be associated with lost items that they have claimed.
 
 ## Multiplicity
-Multiplicity: 1 : 0..*
+Multiplicity: Student 1 ───────── 0..* lostItem
 Explanation: One student can claim zero or more lost items.

@@ -25,7 +25,7 @@ Multiplicity: Student 1 ───────── 0..* lostItem
 Explanation: One student can claim zero or more lost items.
 
 ## UML Class Relationship Diagram
-![Class Relationship Diagram](images/classRelationshipDiagram.png)
+![Class Relationship Diagram](images/classRelationshipDiagram.png.png)
 
 ## Python Implementation
 [View Python Source](classRelationships.py)

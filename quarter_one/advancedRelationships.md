@@ -2,6 +2,7 @@
 
 ## Previous Activities
 [classAttrib](classAttributesMethods.md)
+
 [classRel](classRelationships.md)
 
 ## Existing System Description:
@@ -13,12 +14,13 @@ Explanation: A ClaimingStudent IS-A Student because it represents a student who 
 managing lost items that they have claimed.
 
 ## Inheritance UML
-![Inheritance]
+![Inheritance](images/inheritanceDiagram.png)
 
 ## Composition/Aggregation
 
-Relationship:
-Explanation:
+Relationship: Aggregation
+
+Explanation: ClaimingStudent aggregates LostItem objects through its claimedItems list. The LostItem objects can exist independently because they are created before they are added to the student's list. Therefore, the LostItem does not completely depend on the ClaimingStudent.
 
 ## Advanced UML Diagram
 ![Advanced UML]

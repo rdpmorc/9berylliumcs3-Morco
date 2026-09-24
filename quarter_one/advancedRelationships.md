@@ -14,7 +14,7 @@ Explanation: A ClaimingStudent IS-A Student because it represents a student who 
 managing lost items that they have claimed.
 
 ## Inheritance UML
-![Inheritance](images/inheritanceDiagram.png)
+![Inheritance](images/imagesinheritanceDiagram.png)
 
 ## Composition/Aggregation
 
